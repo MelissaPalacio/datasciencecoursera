@@ -1,12 +1,11 @@
 ## This is a markdown file
----
-Title    : Rmarkdown
-Subtitle :
-Author   : Melissa Palacio
-Date     : 7/10/2020
-Output   : html_document: default
+
+---------------------------
+|Title     | Subtitle        | Author          | Date      | Output                 |
+|----------|-----------------|-----------------|-----------|------------------------|
+|Rmarkdown | Third excercise | Melissa Palacio | 7/10/2020 | html_document: default |
 
 
-## R Markdown
+# **R Markdown**
 
-### This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+## This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
